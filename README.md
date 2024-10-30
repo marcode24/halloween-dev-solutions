@@ -51,6 +51,7 @@ npm run test 'year'/'challenge'/index.test.js
 | :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  |
 | 01  | [🧙 Crea la poción perfecta](https://www.halloween.dev/es/retos/2024/1)                     |    🟢     |                     [🔗 Here](./2024/01-crea-la-pocion-perfecta/index.js)                                       |
 | 02  | [🧟 Horda de zombies](https://www.halloween.dev/es/retos/2024/2)                            |    🟢     |                     [🔗 Here](./2024/02-horda-de-zombies/index.js)                                              |
+| 03  | [🛌 Escapa de la pesadillla de Freddy](https://www.halloween.dev/es/retos/2024/3)           |    🟡     |                     [🔗 Here](./2024/03-escapa-de-la-pesadilla-de-freddy/index.js)                              |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
