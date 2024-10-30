@@ -7,12 +7,12 @@
   <br />
   <br />
 
-  <h1>🎄 AdventJS Solutions</h1>
+  <h1>🎃 Halloween Dev Solutions</h1>
 
   ![Version](https://img.shields.io/github/package-json/v/marcode24/halloween-dev-solutions?style=popout&logo=npm)
   ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/halloween-dev-solutions/halloweendev.yml?branch=main&style=popout&logo=testcafe&label=tests)
   ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/halloween-dev-solutions?style=popout&logo=github&label=repo%20size)
-  ![GitHub](https://img.shields.io/github/license/mhalloween-dev-solutionsarcode24/halloween-dev-solutions?style=popout&logo=github&label=license)
+  ![GitHub](https://img.shields.io/github/license/marcode24/halloween-dev-solutions?style=popout&logo=github&label=license)
   ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/halloween-dev-solutions?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
   ![Github repo views](https://img.shields.io/github/search/marcode24/halloween-dev-solutions/halloween-dev-solutions?style=popout&logo=github&label=repo%20views)
   ![GitHub last commit](https://img.shields.io/github/last-commit/marcode24/halloween-dev-solutions?style=popout&logo=git&label=last%20commit)
@@ -42,7 +42,7 @@ npm run test
 npm run test 'year'/'challenge'/index.test.js
 ```
 
-## 🎯 2023 Challenges
+## 🎯 2024 Challenges
 
 <details open>
 <summary>Show / Hide</summary>
@@ -52,6 +52,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 01  | [🧙 Crea la poción perfecta](https://www.halloween.dev/es/retos/2024/1)                     |    🟢     |                     [🔗 Here](./2024/01-crea-la-pocion-perfecta/index.js)                                       |
 | 02  | [🧟 Horda de zombies](https://www.halloween.dev/es/retos/2024/2)                            |    🟢     |                     [🔗 Here](./2024/02-horda-de-zombies/index.js)                                              |
 | 03  | [🛌 Escapa de la pesadillla de Freddy](https://www.halloween.dev/es/retos/2024/3)           |    🟡     |                     [🔗 Here](./2024/03-escapa-de-la-pesadilla-de-freddy/index.js)                              |
+| 04  | [🔪 Encuentra al asesino](https://www.halloween.dev/es/retos/2024/4)                        |    🟡     |                     [🔗 Here](./2024/04-encuentra-al-asesino/index.js)                                          |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
