@@ -53,6 +53,7 @@ npm run test 'year'/'challenge'/index.test.js
 | 02  | [🧟 Horda de zombies](https://www.halloween.dev/es/retos/2024/2)                            |    🟢     |                     [🔗 Here](./2024/02-horda-de-zombies/index.js)                                              |
 | 03  | [🛌 Escapa de la pesadillla de Freddy](https://www.halloween.dev/es/retos/2024/3)           |    🟡     |                     [🔗 Here](./2024/03-escapa-de-la-pesadilla-de-freddy/index.js)                              |
 | 04  | [🔪 Encuentra al asesino](https://www.halloween.dev/es/retos/2024/4)                        |    🟡     |                     [🔗 Here](./2024/04-encuentra-al-asesino/index.js)                                          |
+| 05  | [▲ Terror en Silent Hill](https://www.halloween.dev/es/retos/2024/5)                        |    🔴     |                     [🔗 Here](./2024/05-terror-en-silent-hill/index.js)                                         |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
