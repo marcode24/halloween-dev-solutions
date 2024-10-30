@@ -14,7 +14,7 @@
   ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/halloween-dev-solutions?style=popout&logo=github&label=repo%20size)
   ![GitHub](https://img.shields.io/github/license/mhalloween-dev-solutionsarcode24/halloween-dev-solutions?style=popout&logo=github&label=license)
   ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/halloween-dev-solutions?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
-  ![Github repo views](https://img.shields.io/github/search/marcode24/halloween-dev-solutions?style=popout&logo=github&label=repo%20views)
+  ![Github repo views](https://img.shields.io/github/search/marcode24/halloween-dev-solutions/halloween-dev-solutions?style=popout&logo=github&label=repo%20views)
   ![GitHub last commit](https://img.shields.io/github/last-commit/marcode24/halloween-dev-solutions?style=popout&logo=git&label=last%20commit)
 
 </div>
@@ -22,3 +22,36 @@
 ## ℹ️ About
 
 This repository contains my solutions to the [Halloween Dev](https://www.halloween.dev) challenges. Built by [@midudev](https://twitter.com/midudev)
+
+## 📥 Installation & Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/marcode24/halloween-dev-solutions
+
+# Go to the project directory
+cd halloween-dev-solutions
+
+# Install dependencies
+npm install
+
+# Run the tests
+npm run test
+
+# Run specific test
+npm run test 'year'/'challenge'/index.test.js
+```
+
+## 🎯 2023 Challenges
+
+<details open>
+<summary>Show / Hide</summary>
+
+|  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |
+| :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  |
+| 01  | [🧙 Crea la poción perfecta](https://www.halloween.dev/es/retos/2024/1)                     |    🟢     |                     [🔗 Here](./2024/01-crea-la-pocion-perfecta/index.js)                                       |
+
+Difficulties legend:
+🟢 Easy 🟡 Medium 🔴 Hard
+
+</details>
