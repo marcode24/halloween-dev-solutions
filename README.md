@@ -10,7 +10,7 @@
   <h1>🎄 AdventJS Solutions</h1>
 
   ![Version](https://img.shields.io/github/package-json/v/marcode24/halloween-dev-solutions?style=popout&logo=npm)
-  ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/halloween-dev-solutions/adventjs.yml?branch=main&style=popout&logo=testcafe&label=tests)
+  ![GitHub CI Workflow Status](https://img.shields.io/github/actions/workflow/status/marcode24/halloween-dev-solutions/halloweendev.yml?branch=main&style=popout&logo=testcafe&label=tests)
   ![GitHub repo size](https://img.shields.io/github/repo-size/marcode24/halloween-dev-solutions?style=popout&logo=github&label=repo%20size)
   ![GitHub](https://img.shields.io/github/license/mhalloween-dev-solutionsarcode24/halloween-dev-solutions?style=popout&logo=github&label=license)
   ![GitHub Repo stars](https://img.shields.io/github/stars/marcode24/halloween-dev-solutions?style=popout&logo=apachespark&color=yellow&logoColor=yellow)
@@ -50,6 +50,7 @@ npm run test 'year'/'challenge'/index.test.js
 |  #  | Challenge                                                                                   | Difficulty |                                           My Solution                                                           |
 | :-: | ------------------------------------------------------------------------------------------- | :--------: | :------------------------------------------------------------------------------------------------------------:  |
 | 01  | [🧙 Crea la poción perfecta](https://www.halloween.dev/es/retos/2024/1)                     |    🟢     |                     [🔗 Here](./2024/01-crea-la-pocion-perfecta/index.js)                                       |
+| 02  | [🧟 Horda de zombies](https://www.halloween.dev/es/retos/2024/2)                            |    🟢     |                     [🔗 Here](./2024/02-horda-de-zombies/index.js)                                              |
 
 Difficulties legend:
 🟢 Easy 🟡 Medium 🔴 Hard
