@@ -1,0 +1,39 @@
+{
+  "name": "halloween-dev-solutions",
+  "description": "Halloween Dev Solutions 2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:2024": "jest --testPathPattern=2024",
+    "lint": "eslint **/*.js",
+    "lint:fix": "eslint **/*.js --fix",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.31.0",
+    "husky": "^9.1.6",
+    "jest": "^29.7.0",
+    "lint-staged": "^15.2.10"
+  },
+  "keywords": [
+    "halloween",
+    "dev",
+    "solutions",
+    "2024",
+    "midudev",
+    "marcode24"
+  ],
+  "author": "marcode24",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcode24/halloween-dev-solutions"
+  },
+  "bugs": {
+    "url": "git+https://github.com/marcode24/halloween-dev-solutions/issues"
+  },
+  "homepage": "https://github.com/marcode24/halloween-dev-solutions#README.md"
+}
