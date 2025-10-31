@@ -6,6 +6,7 @@
   "scripts": {
     "test": "jest",
     "test:2024": "jest --testPathPattern=2024",
+    "test:2025": "jest --testPathPattern=2025",
     "lint": "eslint **/*.js",
     "lint:fix": "eslint **/*.js --fix",
     "prepare": "husky install"
